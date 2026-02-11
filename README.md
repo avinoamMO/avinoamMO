@@ -10,6 +10,8 @@ Based in Israel. Building as a solo entrepreneur.
 
 Former VP Operations & Product at a crypto PR distribution company that grew to $8M+ revenue and 329 media partners. Conceived the core algorithm that powered the business. Recognized as a Web3 expert by the national CPA Bureau, with 30+ institutional talks at banks, universities, and regulators. I combine full-stack engineering with business operations, product management, and compliance -- the rare profile that can build the product *and* run the company.
 
+**16 products. 1,342+ tests. Built with Claude Code.**
+
 ---
 
 ### What I Build
@@ -23,13 +25,13 @@ Former VP Operations & Product at a crypto PR distribution company that grew to 
 | [ScreenshotRace](https://github.com/avinoamMO/ScreenshotRace) | Multi-provider screenshot benchmark with AI quality evaluation | [Live Demo](https://avinoammo.github.io/ScreenshotRace/) |
 | [CryptoROI](https://github.com/avinoamMO/bitcoinpricecomparison) | Real-time exchange fee comparison across 100+ exchanges (CCXT-powered) | |
 | [WebRTC-Chat](https://github.com/avinoamMO/WebRTC-Chat) | Peer-to-peer video chat with screen sharing (vanilla JS, no server) | [Live Demo](https://avinoammo.github.io/WebRTC-Chat/) |
+| [claude-hub](https://github.com/avinoamMO/claude-hub) | Multi-provider AI workspace with 5 LLM vendors, real-time agent coordination | |
 
 **Products & SaaS** (private repos)
 
 | Project | What It Does |
 |---------|-------------|
 | PRCoverage | Media coverage analytics and PR distribution platform |
-| CWAH | Multi-provider AI workspace with 5 AI vendors, Slack-like interface |
 | TokenScout | Crypto project due diligence scoring engine |
 | OpsKit | Startup operations template engine |
 | PitchPilot | AI-powered CRM and business development tool |
