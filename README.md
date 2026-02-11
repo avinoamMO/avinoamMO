@@ -21,7 +21,7 @@ Former VP Operations & Product at a crypto PR distribution company that grew to 
 | [vibe-command](https://github.com/avinoamMO/vibe-command) | Developer HUD + sound effects for Claude Code sessions | [Live Demo](https://avinoammo.github.io/vibe-command/) |
 | [cowork-bridge](https://github.com/avinoamMO/cowork-bridge) | Two-agent real-time bridge between Claude Code and Claude Desktop | [Docs](https://avinoammo.github.io/cowork-bridge/) |
 | [ScreenshotRace](https://github.com/avinoamMO/ScreenshotRace) | Multi-provider screenshot benchmark with AI quality evaluation | [Live Demo](https://avinoammo.github.io/ScreenshotRace/) |
-| [CryptoROI](https://github.com/avinoamMO/bitcoinpricecomparison) | Real-time exchange fee comparison across 7 exchanges (CCXT-powered) | |
+| [CryptoROI](https://github.com/avinoamMO/bitcoinpricecomparison) | Real-time exchange fee comparison across 100+ exchanges (CCXT-powered) | |
 | [WebRTC-Chat](https://github.com/avinoamMO/WebRTC-Chat) | Peer-to-peer video chat with screen sharing (vanilla JS, no server) | [Live Demo](https://avinoammo.github.io/WebRTC-Chat/) |
 
 **Products & SaaS** (private repos)
@@ -33,6 +33,11 @@ Former VP Operations & Product at a crypto PR distribution company that grew to 
 | TokenScout | Crypto project due diligence scoring engine |
 | OpsKit | Startup operations template engine |
 | PitchPilot | AI-powered CRM and business development tool |
+| ComplianceKit | Crypto KYB/KYT/AML compliance automation platform |
+| SpeakerKit | Speaker management for talks, events, proposals, and media kits |
+| FounderOS | Solo founder command center — revenue, tasks, habits, decisions |
+| ContractPilot | Contract lifecycle management with templates and deadline tracking |
+| RepoScout | GitHub portfolio analyzer with scoring and recommendations |
 
 **Professional Tools** (private repos)
 
