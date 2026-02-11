@@ -21,7 +21,8 @@ Former VP Operations & Product at a crypto PR distribution company that grew to 
 | [vibe-command](https://github.com/avinoamMO/vibe-command) | Developer HUD + sound effects for Claude Code sessions | [Live Demo](https://avinoammo.github.io/vibe-command/) |
 | [cowork-bridge](https://github.com/avinoamMO/cowork-bridge) | Two-agent real-time bridge between Claude Code and Claude Desktop | [Docs](https://avinoammo.github.io/cowork-bridge/) |
 | [ScreenshotRace](https://github.com/avinoamMO/ScreenshotRace) | Multi-provider screenshot benchmark with AI quality evaluation | [Live Demo](https://avinoammo.github.io/ScreenshotRace/) |
-| [CryptoROI](https://github.com/avinoamMO/bitcoinpricecomparison) | Real-time exchange fee comparison across 7 Israeli exchanges (CCXT) | |
+| [CryptoROI](https://github.com/avinoamMO/bitcoinpricecomparison) | Real-time exchange fee comparison across 7 exchanges (CCXT-powered) | |
+| [WebRTC-Chat](https://github.com/avinoamMO/WebRTC-Chat) | Peer-to-peer video chat with screen sharing (vanilla JS, no server) | [Live Demo](https://avinoammo.github.io/WebRTC-Chat/) |
 
 **Products & SaaS** (private repos)
 
